@@ -10,3 +10,6 @@ data exploration and preparation for data mining
 In this assessment, you will use Python libraries and code to analyse three scenarios and 
 associated datasets to identify useful insights to benefit the retail and healthcare industry
 ### Project specification (Assignment 2 Specifications.pdf)
+
+
+### Technologies, library: Python, seaborn, pandas, numpy, matplotlib
